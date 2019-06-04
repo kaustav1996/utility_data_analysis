@@ -1,2 +1,3 @@
-# utility_data_analysis
-Experimental and Research based analytics on Random Utility Data
+# Utility Data Analysis
+
+Experimental and Research based analytics on Electricity Utility Data
